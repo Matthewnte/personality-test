@@ -1,0 +1,61 @@
+{
+  "questions": [
+      {
+        "question":
+          "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+        "options": [
+          { "text": "Don’t dare to interrupt them", "value": 1, "personalityType": "introvert" },
+          {
+            "text": "Think it’s more important to give them some of your time; work can wait",
+            "value": 2,
+            "personalityType": "introvert"
+          },
+          {
+            "text": "Listen, but with only with half an ear",
+            "value": 3,
+            "personalityType": "extrovert"
+          },
+          {
+            "text": "Interrupt and explain that you are really busy at the moment",
+            "value": 4,
+            "personalityType": "extrovert"
+          }
+        ]
+      },
+      {
+        "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+        "options": [
+          { "text": "Look at your watch every two minutes", "value": 1, "personalityType": "introvert" },
+          {
+            "text": "Bubble with inner anger, but keep quiet",
+            "value": 2,
+            "personalityType": "introvert"
+          },
+          {
+            "text": "Explain to other equally impatient people in the room that the doctor is always running late",
+            "value": 3,
+            "personalityType": "extrovert"
+          },
+          {
+            "text": "Complain in a loud voice, while tapping your foot impatiently",
+            "value": 4,
+            "personalityType": "extrovert"
+          }
+        ]
+      },
+      {
+        "question":
+          "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+        "options": [
+          { "text": "Don’t dare contradict them", "value": 1, "personalityType": "introvert" },
+          { "text": "Think that they are obviously right", "value": 2, "personalityType": "introvert" },
+          {
+            "text": "Defend your own point of view, tooth and nail",
+            "value": 3,
+            "personalityType": "extrovert"
+          },
+          { "text": "Continuously interrupt your colleague", "value": 4, "personalityType": "extrovert"}
+        ]
+      }
+    ]
+  }
